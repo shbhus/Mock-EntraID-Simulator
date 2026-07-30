@@ -1,0 +1,17 @@
+# FastAPI Framework
+fastapi==0.116.1
+
+# ASGI Server
+uvicorn[standard]==0.35.0
+
+# JWT Token Generation/Validation
+PyJWT==2.10.1
+
+# RSA Key Generation & Cryptography
+cryptography==45.0.6
+
+# FastAPI Request Validation
+pydantic==2.11.7
+
+# Required for Form/File support in FastAPI
+python-multipart==0.0.20
